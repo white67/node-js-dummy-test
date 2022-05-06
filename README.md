@@ -4,7 +4,7 @@
 
 ## Description
 
-Simple To Do application built with Node.js and Express.js that let's you add and complete task on a single page, storing both new and completed task in a different array.
+Simple To Do application built with Node.js and Express.js that lets you add tasks on a single page, store new and finished tasks in different arrays. Containerized with Docker and tested with NPM through GitHub Actions pipeline.
 
 ## Embedded Javascript
 
