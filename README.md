@@ -1,30 +1,24 @@
-<div align="center" id="top"> 
+<!-- <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="To Do Web App served with Node.js and Express.js" />
 
   &#xa0;
 
-  <!-- <a href="https://dummynodejstodo.netlify.app">Demo</a> -->
-</div>
+</div> -->
 
 <h1 align="center">To Do Web App served with Node.js and Express.js</h1>
 
 <p align="center">
-
-[![Node.js CI Test](https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.yml/badge.svg)](https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.yml) [![Docker Deployment](https://github.com/devenes/node-js-dummy-test/actions/workflows/dockerx.yml/badge.svg)](https://github.com/devenes/node-js-dummy-test/actions/workflows/dockerx.yml) [![Node.js Scan SARIF](https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.scan.yml/badge.svg)](https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.scan.yml) ![Node.js Coverage](https://github.com/npm/cli/actions/workflows/ci.yml/badge.svg) ![Node.js Coverage](https://img.shields.io/static/v1?label=npm&message=v16.0.0&color=red&logo=npm)
-
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/devenes/dummy-nodejs-todo?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/devenes/dummy-nodejs-todo?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/devenes/dummy-nodejs-todo?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/devenes/dummy-nodejs-todo?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/devenes/dummy-nodejs-todo?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/devenes/dummy-nodejs-todo?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/devenes/dummy-nodejs-todo?color=56BEB8" /> -->
+  <img alt="Badge" src="https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.yml/badge.svg">
+  <img alt="Badge" src="https://github.com/devenes/node-js-dummy-test/actions/workflows/dockerx.yml/badge.svg">
+  <img alt="Badge" src="https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.scan.yml/badge.svg">
+  <img alt="Badge" src="https://github.com/npm/cli/actions/workflows/ci.yml/badge.svg">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/devenes/node-js-dummy-test?color=yellow">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/devenes/node-js-dummy-test?color=red">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/devenes/node-js-dummy-test?color=orange">
+  <img alt="License" src="https://img.shields.io/github/license/devenes/node-js-dummy-test?color=purple">
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/devenes/node-js-dummy-test?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/devenes/node-js-dummy-test?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/devenes/node-js-dummy-test?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -87,10 +81,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-git clone https://github.com/devenes/dummy-nodejs-todo
+git clone https://github.com/devenes/node-js-dummy-test
 
 # Access
-cd dummy-nodejs-todo
+cd node-js-dummy-test
 
 # install all needed dependencies
 npm install
@@ -223,7 +217,7 @@ jobs:
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/devenes" target="_blank">devenes</a>
