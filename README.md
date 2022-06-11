@@ -1,10 +1,70 @@
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="To Do Web App served with Node.js and Express.js" />
+
+  &#xa0;
+
+  <!-- <a href="https://dummynodejstodo.netlify.app">Demo</a> -->
+</div>
+
+<h1 align="center">To Do Web App served with Node.js and Express.js</h1>
+
+<p align="center">
+
 [![Node.js CI Test](https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.yml/badge.svg)](https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.yml) [![Docker Deployment](https://github.com/devenes/node-js-dummy-test/actions/workflows/dockerx.yml/badge.svg)](https://github.com/devenes/node-js-dummy-test/actions/workflows/dockerx.yml) [![Node.js Scan SARIF](https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.scan.yml/badge.svg)](https://github.com/devenes/node-js-dummy-test/actions/workflows/node.js.scan.yml) ![Node.js Coverage](https://github.com/npm/cli/actions/workflows/ci.yml/badge.svg) ![Node.js Coverage](https://img.shields.io/static/v1?label=npm&message=v16.0.0&color=red&logo=npm)
 
-# To Do Web App served with Node.js and Express.js
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/devenes/dummy-nodejs-todo?color=56BEB8">
 
-## Description
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/devenes/dummy-nodejs-todo?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/devenes/dummy-nodejs-todo?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/devenes/dummy-nodejs-todo?color=56BEB8">
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/devenes/dummy-nodejs-todo?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/devenes/dummy-nodejs-todo?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/devenes/dummy-nodejs-todo?color=56BEB8" /> -->
+</p>
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  Dummy Nodejs Todo 🚀 Under construction...  🚧
+</h4> 
+
+<hr> -->
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/devenes" target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About ##
 
 Simple To Do application built with Node.js and Express.js that lets you add tasks on a single page, store new and finished tasks in different arrays. Containerized with Docker and tested with NPM through GitHub Actions pipeline.
+## :sparkles: Features ##
+
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Embedded Javascript
 
@@ -14,19 +74,35 @@ EJS simply stands for Embedded Javascript. It is a simple templating language/en
 
 Body-Parser is the Node. js body parsing middleware. It is responsible for parsing the incoming request bodies in a middleware before you handle it. This extracts the entire body portion of an incoming request stream and exposes it on req.body
 
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
 ## Output
 
 ![png](./readme/todo.jpg)
 
-## Run App locally
 
-<li> Run <code> npm install </code> to install all needed dependencies </li>
+## :checkered_flag: Starting ##
 
-<li> Then start the server using <code>npm start</code> </li>
+```bash
+# Clone this project
+git clone https://github.com/devenes/dummy-nodejs-todo
 
-<li> Navigate to your browser <code> http://localhost:3000/ </code> to view the app </li>
+# Access
+cd dummy-nodejs-todo
+
+# install all needed dependencies
+npm install
+
+# Start the app in the browser
+npm start
+
+# The server will initialize in the <http://localhost:3000>
+```
 
 ![start](./readme/start.jpg)
+
 
 ## Test App
 
@@ -47,6 +123,7 @@ COPY . .
 EXPOSE 3000
 CMD ["npm", "start"]
 ```
+
 
 ## Containerization with Docker using GitHub Actions
 
@@ -142,3 +219,15 @@ jobs:
 [npm-test](https://docs.npmjs.com/cli/v8/commands/npm-test)
 
 [npm](https://www.npmjs.com/)
+
+
+## :memo: License ##
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+
+
+Made with :heart: by <a href="https://github.com/devenes" target="_blank">devenes</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
