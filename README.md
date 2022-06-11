@@ -46,9 +46,9 @@
 Simple To Do application built with Node.js and Express.js that lets you add tasks on a single page, store new and finished tasks in different arrays. Containerized with Docker and tested with NPM through GitHub Actions pipeline.
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: **Add tasks** \
+:heavy_check_mark: **Store tasks** \
+:heavy_check_mark: **Delete tasks** 
 
 ## :rocket: Technologies ##
 
@@ -61,6 +61,7 @@ The following tools were used in this project:
 - [NPM](https://www.npmjs.com/)
 - [Body-parser](https://www.npmjs.com/package/body-parser)
 - [EJS](https://www.npmjs.com/package/ejs)
+- [CSS](https://www.w3schools.com/css/default.asp)
 
 ## Embedded Javascript
 
@@ -202,19 +203,19 @@ jobs:
 
 ## Resources
 
-[Using workflow run logs](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/using-workflow-run-logs)
+- [Using workflow run logs](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/using-workflow-run-logs)
 
-[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
+- [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 
-[Node.js](https://www.yusufsezer.com.tr/node-js-npm/)
+- [Node.js](https://www.yusufsezer.com.tr/node-js-npm/)
 
-[Todo App with Node.js](https://medium.com/@atingenkay/creating-a-todo-app-with-node-js-express-8fa51f39b16f)
+- [Todo App with Node.js](https://medium.com/@atingenkay/creating-a-todo-app-with-node-js-express-8fa51f39b16f)
 
-[npm-run-script](https://docs.npmjs.com/cli/v8/commands/npm-run-script)
+- [npm-run-script](https://docs.npmjs.com/cli/v8/commands/npm-run-script)
 
-[npm-test](https://docs.npmjs.com/cli/v8/commands/npm-test)
+- [npm-test](https://docs.npmjs.com/cli/v8/commands/npm-test)
 
-[npm](https://www.npmjs.com/)
+- [npm](https://www.npmjs.com/)
 
 
 ## :memo: License ##
