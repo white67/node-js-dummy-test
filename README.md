@@ -227,4 +227,4 @@ Made with :heart: by <a href="https://github.com/devenes" target="_blank">devene
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">⬆️ Back to top</a>
