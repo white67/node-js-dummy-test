@@ -54,11 +54,13 @@ Simple To Do application built with Node.js and Express.js that lets you add tas
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Javascript](https://www.javascript.com/)
+- [Express.js](https://expressjs.com/)
+- [Docker](https://www.docker.com/)
+- [NPM](https://www.npmjs.com/)
+- [Body-parser](https://www.npmjs.com/package/body-parser)
+- [EJS](https://www.npmjs.com/package/ejs)
 
 ## Embedded Javascript
 
